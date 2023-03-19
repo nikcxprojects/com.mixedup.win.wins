@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135835793537",
+    "project_id": "mixed-up-wins",
+    "storage_bucket": "mixed-up-wins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135835793537:android:935ed99fb73d174959f580",
+        "android_client_info": {
+          "package_name": "com.mixedup.win.wins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135835793537-oc15ig3dtbgiu72hg0rduall7ggpqora.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvsWUywmCGQnf9nbjbYJxZpCWdhGYOnHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135835793537-oc15ig3dtbgiu72hg0rduall7ggpqora.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

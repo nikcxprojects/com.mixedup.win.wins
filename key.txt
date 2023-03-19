@@ -1,0 +1,7 @@
+Key store password - 123456
+Key password - 123456
+Key alias - key0
+App name - MB
+Package name - com.mixedup.win.wins
+VersionCode -  2
+VersionName - "2.0"
